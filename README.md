@@ -1,0 +1,2 @@
+# HelloWorrdCore
+.Net Core Tutoral
